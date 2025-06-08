@@ -1,0 +1,7 @@
+id = "my-theme"
+name = "Solvablehat Icon Theme - Dark"
+version = "1"
+schema_version = 1
+authors = ["Solvablehat <notsolvablehat@gmail.com>"]
+description = "A port of Catppuccin Perfect Sequoia for Zed."
+repository = "https://github.com/your-repo"
